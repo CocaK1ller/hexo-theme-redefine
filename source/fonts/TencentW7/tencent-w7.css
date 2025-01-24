@@ -5,8 +5,7 @@
 
 @font-face {
     font-family: '腾讯体';
-    src: local('腾讯体w7'),
-    local('腾讯体'),
+    src: 
     url('tencent-w7.ttf') format('truetype');
     font-weight: 400;
     font-display: swap;
